@@ -51,11 +51,11 @@ And I referred to [sjtu-class-table-generator](https://github.com/skyzh/sjtu-cla
 
    
 
-   ## 	Change Some Parameters
+## 	Change Some Parameters
 
-   1. semester_start_day     (line 61)      # The date of the beginning of the term
+1. semester_start_day     (line 61)      # The date of the beginning of the term
 
-   2. cal['prodid']                   (line 98)     #  This property specifies the identifier for the product that created the iCalendar object.
+2. cal['prodid']                   (line 98)     #  This property specifies the identifier for the product that created the iCalendar object.
 
 
 
