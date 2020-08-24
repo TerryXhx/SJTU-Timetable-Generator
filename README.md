@@ -7,9 +7,9 @@ This script requires you to grab data yourself.
 
 And I referred to [sjtu-class-table-generator](https://github.com/skyzh/sjtu-class-table-generator) and [CalenderGenerator](https://github.com/Zxilly/CalenderGenerator) in the process.
 
+## Main Step to Use it
 
-
-## Grab Timetable Date
+###  1. Grab Timetable Date
 
 
 1. Visit https://i.sjtu.edu.cn/
@@ -51,7 +51,7 @@ And I referred to [sjtu-class-table-generator](https://github.com/skyzh/sjtu-cla
 
    
 
-## 	Change Some Parameters
+### 	2. Change Some Parameters
 
 1. semester_start_day     (line 61)      # The date of the beginning of the term
 
@@ -59,13 +59,13 @@ And I referred to [sjtu-class-table-generator](https://github.com/skyzh/sjtu-cla
 
 
 
-## Run Program
+### 3. Run Program
 
 Run the SJTU_timetable_generator.py 
 
 
 
-## Import to Calendar
+### 4. Import to Calendar
 
 Drag and drop `Curricular for {Your name}.ics` into your calendar app.
 
@@ -73,4 +73,4 @@ Drag and drop `Curricular for {Your name}.ics` into your calendar app.
 
 ## Note
 
-I have only generated the timetable successfully with my own `data.json`. So if you find any porblem, please contact me through email.
+  I have only generated the timetable successfully with my own `data.json`. So if you find any porblem, please contact me through email.
