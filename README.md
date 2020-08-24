@@ -73,4 +73,4 @@ Drag and drop `Curricular for {Your name}.ics` into your calendar app.
 
 ## Note
 
-I have only generated the timetable successfully with my own data.json. So if you find any porblem, please contact me through email.
+I have only generated the timetable successfully with my own `data.json`. So if you find any porblem, please contact me through email.
